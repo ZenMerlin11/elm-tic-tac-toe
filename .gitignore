@@ -1,4 +1,4 @@
 /node_modules
 /elm-stuff
 /.vscode
-bundle.js
+dist/js/bundle.js
